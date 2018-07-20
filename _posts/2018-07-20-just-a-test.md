@@ -19,3 +19,7 @@ post_date: 2018-07-20 11:13:55
 <!-- wp:paragraph -->
 <p>Oops, when I did it, the Webhook wasn't set up yet. Now it ist. Let's try again!</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It worked! Very <strong><em>cool</em></strong>!</p>
+<!-- /wp:paragraph -->
