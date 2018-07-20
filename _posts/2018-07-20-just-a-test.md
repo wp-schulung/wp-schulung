@@ -23,3 +23,11 @@ post_date: 2018-07-20 11:13:55
 <!-- wp:paragraph -->
 <p>It worked! Very <strong><em>cool</em></strong>!</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Now let's see what happens wit images!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><img class="wp-image-2859" style="width:150px" src="https://wp-schulung.ch/wp-content/uploads/speaker.jpg" alt="Christian at WordCamp Bern 2017" /></p>
+<!-- /wp:paragraph -->
