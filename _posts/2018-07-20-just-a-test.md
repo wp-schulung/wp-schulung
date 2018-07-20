@@ -15,3 +15,7 @@ post_date: 2018-07-20 11:13:55
 <!-- wp:paragraph -->
 <p>This Text was manually edited outside WordPress and directly commited to GitHub (actually it was just edited in the online Editor of GitHub...</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Oops, when I did it, the Webhook wasn't set up yet. Now it ist. Let's try again!</p>
+<!-- /wp:paragraph -->
