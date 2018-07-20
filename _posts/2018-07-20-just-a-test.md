@@ -1,7 +1,7 @@
 ---
 ID: 2852
 post_title: Just a test
-author: chzumbrunnen
+author: wp-schulung
 post_excerpt: ""
 layout: post
 permalink: https://wp-schulung.ch/just-a-test/
