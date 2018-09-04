@@ -55,5 +55,5 @@ https://youtu.be/R16fNzj-aaY
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://wp-schulung.ch/kontakt/">Kontakt</a></p>
+<p><a href="https://wp-schulung.ch/kontakt/">Kontakt aufnehmen</a></p>
 <!-- /wp:paragraph -->
