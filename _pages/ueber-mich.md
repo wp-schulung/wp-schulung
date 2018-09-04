@@ -16,16 +16,12 @@ post_date: 2018-05-15 10:43:44
 <p>Angefangen hat es  noch früher: mit Einwilligung meines damaligen Arbeitgebers, nutzte ich das Modem, welches für die Fernwartung benötigt wurde, um mich in "Bulletin Board Systems" (BBS) einzuloggen.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>(Soundplayer mit Modem-Sound)</p>
-<!-- /wp:paragraph -->
-
 <!-- wp:audio {"id":4942} -->
-<figure class="wp-block-audio"><audio controls src="https://wp-schulung.ch/wp-content/uploads/modem-sound.mp3"></audio><figcaption>So hat es früher  getönt, als das Modem eine Verbindung ins Internet herstellte</figcaption></figure>
+<figure class="wp-block-audio"><audio controls src="https://wp-schulung.ch/wp-content/uploads/modem-sound.mp3"></audio><figcaption>So hat es früher  getönt, als das Modem eine Verbindung ins Internet oder zu einem BBS herstellte</figcaption></figure>
 <!-- /wp:audio -->
 
 <!-- wp:paragraph -->
-<p>Wenn Sie dieses Geräsuch noch aus eigener Erfahrug kennen, haben Sie vermutlich auch erlebt, wie sich Bilder auf einer Webseite Zeile um Zeile aufbauten.</p>
+<p>Wenn Sie dieses Geräusch noch aus eigener Erfahrung kennen, haben Sie vermutlich auch erlebt, wie sich Bilder auf einer Webseite Zeile um Zeile aufbauten.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
