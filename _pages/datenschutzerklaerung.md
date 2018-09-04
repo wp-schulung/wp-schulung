@@ -34,7 +34,7 @@ Diese Websites können Daten über dich sammeln, Cookies benutzen, zusätzliche 
 <h3>Analysedienste</h3>
 Wir verwenden Google Analytics zur zur Analyse der Websitebenutzung durch Nutzer.
 
-Die Nutzung umfasst die Betriebsart &amp;bdquo;Universal Analytics&amp;ldquo;. Hierdurch ist es möglich, Daten, Sitzungen und Interaktionen über mehrere Geräte hinweg einer pseudonymen User-ID zuzuordnen und so die Aktivitäten eines Nutzers geräteübergreifend zu analysieren. Mehr Informationen zum Datenschutz bei Google Analytics finden Sie bei https://support.google.com/analytics/answer/6004245?hl=de und bei der Datenschutzerklärung &amp; Nutzungsbedingungen von Google.
+Die Nutzung umfasst die Betriebsart «Universal Analytics». Hierdurch ist es möglich, Daten, Sitzungen und Interaktionen über mehrere Geräte hinweg einer pseudonymen User-ID zuzuordnen und so die Aktivitäten eines Nutzers geräteübergreifend zu analysieren. Mehr Informationen zum Datenschutz bei Google Analytics finden Sie bei https://support.google.com/analytics/answer/6004245?hl=de und bei der Datenschutzerklärung &amp; Nutzungsbedingungen von Google.
 <h2>Mit wem wir deine Daten teilen</h2>
 <h2>Wie lange wir deine Daten speichern</h2>
 Wenn du einen Kommentar schreibst, wird dieser inklusive Metadaten zeitlich unbegrenzt gespeichert. Auf diese Art können wir Folgekommentare automatisch erkennen und freigeben, anstelle sie in einer Moderations-Warteschlange festzuhalten.
