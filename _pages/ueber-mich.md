@@ -17,12 +17,12 @@ post_date: 2018-05-15 10:43:44
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Das klang etwa so:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p>(Soundplayer mit Modem-Sound)</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:audio {"id":4942} -->
+<figure class="wp-block-audio"><audio controls src="https://wp-schulung.ch/wp-content/uploads/modem-sound.mp3"></audio><figcaption>So hat es früher  getönt, als das Modem eine Verbindung ins Internet herstellte</figcaption></figure>
+<!-- /wp:audio -->
 
 <!-- wp:paragraph -->
 <p>Wenn Sie dieses Geräsuch noch aus eigener Erfahrug kennen, haben Sie vermutlich auch erlebt, wie sich Bilder auf einer Webseite Zeile um Zeile aufbauten.</p>
@@ -47,9 +47,13 @@ post_date: 2018-05-15 10:43:44
 <!-- wp:core-embed/youtube {"url":"https://youtu.be/R16fNzj-aaY","type":"video","providerNameSlug":"youtube"} -->
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube">
 https://youtu.be/R16fNzj-aaY
-</figure>
+<figcaption>Recap Video von YouTube des WordCamp in Brugg 2011</figcaption></figure>
 <!-- /wp:core-embed/youtube -->
 
 <!-- wp:paragraph -->
-<p></p>
+<p>To be continued...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://wp-schulung.ch/kontakt/">Kontakt</a></p>
 <!-- /wp:paragraph -->
