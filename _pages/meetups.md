@@ -13,6 +13,7 @@ post_date: 2017-11-25 12:24:06
 <p>https://www.meetup.com/WordPress-Baden/events/rss</p>
 <p>[iframe width="400" height="250" src="https://meetu.ps/3fzsXB" frameborder="0"]</p>
 <h3><a href="https://www.meetup.com/WordPress-Bern/" target="_blank" rel="noopener">WordPress-Bern</a></h3>
+<p>https://www.meetup.com/WordPress-Bern/events/rss</p>
 <p>[iframe width="400" height="560" src="https://meetu.ps/3fzthx" frameborder="0"]</p>
 <h3><a href="https://www.meetup.com/geneva-wordpress/" target="_blank" rel="noopener">geneva-wordpress</a></h3>
 <p>[iframe width="400" height="560" src="https://meetu.ps/3fztjv" frameborder="0"]</p>
