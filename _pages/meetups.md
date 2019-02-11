@@ -31,6 +31,7 @@ post_date: 2017-11-25 12:24:06
 <p>https://www.meetup.com/WordPress-Zurich/events/rss</p>
 <p>[iframe width="400" height="450" src="https://meetu.ps/3fztlY" frameborder="0"]</p>
 <h3><a href="https://www.meetup.com/Zurich-WooCommerce-Meetup/" target="_blank" rel="noopener">Zurich-WooCommerce-Meetup</a></h3>
+<p>https://www.meetup.com/Zurich-WooCommerce-Meetup/events/rss</p>
 <p>[iframe width="400" height="560" src="https://meetu.ps/3fztmg" frameborder="0"]</p>
 <p> </p>
 
