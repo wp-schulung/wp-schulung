@@ -25,6 +25,7 @@ post_date: 2017-11-25 12:24:06
 <p>https://www.meetup.com/Sion-WordPress-Meetup/events/rss</p>
 <p>[iframe width="400" height="250" src="https://meetu.ps/3fztjZ" frameborder="0"]</p>
 <h3><a href="https://www.meetup.com/St-Gallen-WordPress-Meetup/" target="_blank" rel="noopener">St-Gallen-WordPress-Meetup</a></h3>
+<p>https://www.meetup.com/St-Gallen-WordPress-Meetup/events/rss</p>
 <p>[iframe width="400" height="250" src="https://meetu.ps/3fztl8" frameborder="0"]</p>
 <h3><a href="https://www.meetup.com/WordPress-Zurich/" target="_blank" rel="noopener">WordPress-Zurich</a></h3>
 <p>[iframe width="400" height="450" src="https://meetu.ps/3fztlY" frameborder="0"]</p>
