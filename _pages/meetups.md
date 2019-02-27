@@ -4,7 +4,7 @@ post_title: Meetups
 author: chzumbrunnen
 post_excerpt: ""
 layout: page
-permalink: https://wp-schulung.ch/meetups-2/
+permalink: https://wp-schulung.ch/meetups/
 published: true
 post_date: 2017-11-25 12:24:06
 ---
