@@ -1,6 +1,6 @@
 ---
 ID: 5311
-post_title: 'Entwickler &#038; Agenturen'
+post_title: 'Entwickler &#038; Agenturen in der Schweiz'
 author: chzumbrunnen
 post_excerpt: ""
 layout: page
