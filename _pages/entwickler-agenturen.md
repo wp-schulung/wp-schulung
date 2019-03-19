@@ -29,6 +29,7 @@ post_date: 2019-03-06 11:29:03
 <li><a href="https://www.onebyte.ch">OneByte AG</a></li>
 <li><a href="https://www.openstream.ch/">Openstream</a> - <a href="https://twitter.com/openstream">@openstream</a></li>
 <li><a href="https://patdef-webdesign.ch">PATDEF-webdesign</a> - <a href="https://twitter.com/PatriceDefago">@PatriceDefago</a></li>
+<li><a href="https://www.picture-planet.ch/">Picture-Planet GmbH</a></li>
 <li><a href="https://www.refinedpractice.com/">Refined Practice</a> - <a href="https://twitter.com/RefinedPractice">@RefinedPractice</a></li>
 <li><a href="https://required.com/">required</a> - <a href="https://twitter.com/wearerequired">@wearerequired</a></li>
 <li><a href="http://resortstudio.ch/digital/">Resort Studio</a></li>
