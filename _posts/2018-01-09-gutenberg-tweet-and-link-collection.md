@@ -11,9 +11,9 @@ post_date: 2018-01-09 16:40:19
 ---
 Mit der Version 5.0 von WordPress wird voraussichtlich im Mai 2018 ein völlig neues block-basiertes Bearbeitungs-Konzept eingeführt werden. Dieses Gutenberg genannte Projekt sorgt momentan für viel Gesprächsstoff und heftige Diskussionen in der WordPress Community.
 
-Hier daher Links zu spannenden Nachrichten und Diskussionen darüber.
+Hier daher Links zu spannenden Nachrichten und Diskussionen darüber.<!--more-->
 
-Chris Lema, ein bekannter WordPress Berater schreibt, er sehe das Projekt Gutenberg, wie ein "<a href="http://chrislema.com/talking-gutenberg-wordpress/" target="_blank" rel="noopener">Auswechseln des Motors im Flug</a>". Dies tönt an, welche weitreichenden Konsequenzen diese Umstellung mit sich bringen wird.
+Chris Lema, ein bekannter WordPress Berater schreibt, er sehe das Projekt Gutenberg, wie ein "<a href="http://chrislema.com/talking-gutenberg-wordpress/" target="_blank" rel="noopener noreferrer">Auswechseln des Motors im Flug</a>". Dies tönt an, welche weitreichenden Konsequenzen diese Umstellung mit sich bringen wird.
 
 Es wird möglich sein, auch nach Veröffentlichung von Gutenberg, den "alten", TinyMCE basierten Editor weiter zu nutzen. Dazu dient dieses Plugin:
 
