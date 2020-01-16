@@ -5,7 +5,7 @@ author: chzumbrunnen
 post_excerpt: ""
 layout: page
 permalink: >
-  https://wp-schulung.ch/bestaetigung-erforderlich/
+  https://www.wp-schulung.ch/bestaetigung-erforderlich/
 published: true
 post_date: 2017-11-24 17:28:27
 ---
